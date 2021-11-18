@@ -1,0 +1,7 @@
+/java-bazel-gson.iml
+/.ijwb/
+/.idea/
+/bazel-bin/
+/bazel-java-bazel-gson-junit/
+/bazel-out/
+/bazel-testlogs/
